@@ -1,6 +1,8 @@
 # AuthMeReloaded
 **"The best authentication plugin for the Bukkit modding API!"**
 
+
+SHBS &*&&&&*&Y*&&$%^*(^
 <img src="wallpaper.png?raw=true" alt="AuthMeLogo"/>
 
 | Type              | Badges                                                                                                                                                                                                                                                                                                                                                                                |
